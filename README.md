@@ -3,3 +3,4 @@
 
 ![dashboard](https://github.com/shivamsudha123/customer_shopping_behaviour_analysis/blob/65da3b9e2164765ee3a64d746599ca20abdc7321/Dashboard%20Images/Image%202%20.png)
 
+![image](https://github.com/shivamsudha123/customer_shopping_behaviour_analysis/blob/315ff6df7d2de17e8c05fca12ccd23619d078c5c/SQL%20QUERIES%20OUTPUT/QUERY%201%20.png)
