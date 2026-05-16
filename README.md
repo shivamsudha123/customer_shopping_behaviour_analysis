@@ -3,11 +3,8 @@
 This project analyzes customer shopping behavior using Python, SQL, and Power BI. It includes data cleaning, exploratory data analysis (EDA), and interactive dashboards to identify sales trends, customer preferences, and business insights.
 ## Tools Used 
 1.Python
-
 2.SQL
-
 3.Power BI
-
 4. CSV Dataset
    
 ![dashboard](https://github.com/shivamsudha123/customer_shopping_behaviour_analysis/raw/00af1ce89536142a12826ec02eccaf42a269b03a/Dashboard%20Images/Image%201%20.png)
